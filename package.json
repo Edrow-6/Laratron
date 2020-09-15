@@ -1,0 +1,27 @@
+{
+  "name": "laratron",
+  "version": "0.0.1",
+  "description": "Run Laravel8 app on Electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . Laratron --out=dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "laravel",
+    "electron"
+  ],
+  "author": "Edrow",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.1.2",
+    "electron-packager": "^15.1.0"
+  },
+  "dependencies": {
+    "node-php-server": "^0.1.2"
+  }
+}
