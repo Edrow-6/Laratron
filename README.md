@@ -42,6 +42,7 @@ To finish, you just need to edit Laravel as you like in "www". ([see documentati
 ```
 npm start
 ```
+(If key error showing, press "Generate Key" and "Refresh Now")
 
 ## 🌊 Deployment <a name="deployment"></a>
 ```
