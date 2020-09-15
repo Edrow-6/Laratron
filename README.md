@@ -20,16 +20,9 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [Authors](#authors)
-- [New Laravel Features](#laravel_features)
-
 ### Prerequisites
 - [NodeJS](https://nodejs.org/en/download/) (LTS 12)
-- [PHP 7.4](https://nodejs.org/en/download/) (Included)
+- PHP 7.4 (Included)
 
 ### Installing
 TODO
