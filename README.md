@@ -21,16 +21,22 @@
 </p>
 
 ### Prerequisites
+- [Composer](https://getcomposer.org/)
 - [NodeJS](https://nodejs.org/en/download/) (LTS 12)
 - PHP 7.4 (Included)
 
 ### Installing
-TODO
+Go in "www" folder, copy ".env.example" and rename it to ".env"
 
+Next, in "www" folder, open Powershell or CMD by executing (Shift+Right-Click) and run composer:
 ```
-npm install
+composer install
 ```
-You just need to edit Laravel as you like in "www". ([see documentation](https://laravel.com/docs/8.x/configuration))
+After that, install all dependencies:
+```
+cd .. | npm install
+```
+To finish, you just need to edit Laravel as you like in "www". ([see documentation](https://laravel.com/docs/8.x/configuration))
 
 ## 🧤 Usage <a name="usage"></a>
 ```
