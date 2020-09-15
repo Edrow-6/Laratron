@@ -1,23 +1,3 @@
-Laratron
-
-Running and Building Laravel App using ElectronJS
-
-Requierement:
-- nodejs 12
-
-Features:
-- PHP 7.4
-- Laravel 8
-
-Setup:
-* npm install
-
-Running:
-* npm start
-
-Building:
-* npm run build
-
 <p align="center">
   <a href="" rel="noopener">
  <img width=128px height=128px src="https://i.ibb.co/P5kV9PC/laratron.png" alt="Laratron Logo"></a>
